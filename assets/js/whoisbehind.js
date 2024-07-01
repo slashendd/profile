@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       {
         name: "Febi Maharani",
-        instagram: "https://www.instagram.com/_fbymhrn",
+        instagram: "https://www.instagram.com/_febiiuuu",
         role: "UI/UX Designer",
         avatarSrc: "./assets/images/feby.jpeg",
       },
