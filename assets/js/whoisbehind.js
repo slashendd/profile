@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
       {
         name: "Febi Maharani",
         instagram: "https://www.instagram.com/_febiiuuu",
-        role: "UI/UX Designer",
+        role: "UI/UX Designer, Frontend Developer",
         avatarSrc: "./assets/images/feby.jpeg",
       },
       {
