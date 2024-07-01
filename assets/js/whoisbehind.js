@@ -74,7 +74,12 @@ document.addEventListener("DOMContentLoaded", function () {
         role: "Frontend Developer",
         avatarSrc: "./assets/images/figo.jpeg",
       },
-        
+        {
+        name: "20+ Other",
+        instagram: "https://www.instagram.com/slashend.utdi",
+        role: "",
+        avatarSrc: "./assets/images/shape.png",
+      },
     ];
   
     const whobehindList = document.querySelector(".whobehind-list");
