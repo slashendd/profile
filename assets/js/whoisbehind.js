@@ -74,12 +74,7 @@ document.addEventListener("DOMContentLoaded", function () {
         role: "Frontend Developer",
         avatarSrc: "./assets/images/figo.jpeg",
       },
-        {
-        name: "and 20+ other",
-        instagram: "",
-        role: "",
-        avatarSrc: "",
-      },
+        
     ];
   
     const whobehindList = document.querySelector(".whobehind-list");
