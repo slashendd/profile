@@ -4,14 +4,14 @@ document.addEventListener("DOMContentLoaded", function () {
     const teamMembersData = [
       {
         name: "Gilang Teja Krishna",
-        instagram: "https://www.instagram.com/honeypearrr",
-        role: "Our Leader, Fullstack Developer",
+        instagram: "https://www.instagram.com/artisansprince",
+        role: "1st Founder, Fullstack Developer",
         avatarSrc: "./assets/images/gilang.jpeg",
       },
       {
         name: "Mahendra Wira Dharma",
         instagram: "https://www.instagram.com/hencuy_",
-        role: "UI/UX, Graphic Designer",
+        role: "2nd Founder, Fullstack Developer",
         avatarSrc: "./assets/images/mahen.jpeg",
       },
       {
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
       {
         name: "Arya Mahesa Putra",
         instagram: "https://www.instagram.com/aryaaspp_",
-        role: "Backend Developer",
+        role: "Gen 1 Leader, Backend Developer",
         avatarSrc: "./assets/images/arya.jpeg",
       },
       {
